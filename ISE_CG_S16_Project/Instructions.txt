@@ -1,0 +1,23 @@
+Instructions:
+-------------
+Keyboard:
++++++++++
+"Arrow up" --> Move fork up
+"Arrow down" --> Move fork down
+"Arrow right" --> Move Forklift right
+"Arrow left" --> Move Forklift left
+"Number 4" --> Rotate on axis X
+"Number 6" --> Rotate inverse on axis X
+"Number 8" --> Rotate on axis Y
+"Number 2" --> Rotate inverse on axis Y
+"Number 1" --> Rotate on axis Z
+"Number 9" --> Rotate inverse on axis Z
+"+" --> Zoom in
+"-" --> Zoom out
+"ESC" --> Exit application
+Mouse:
+++++++
+Right click --> Menu to turn lights On/Off, Reset Camera
+-----------------------------------------------------
+Made by:
+Sharif Qasrawi

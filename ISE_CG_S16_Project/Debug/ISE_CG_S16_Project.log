@@ -1,0 +1,11 @@
+﻿Build started 30-Mar-19 21:25:22.
+     1>Project "E:\My Programming\ISE_CG_S16_Project\ISE_CG_S16_Project\ISE_CG_S16_Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Glew-and-Glut\glew-1.11.0\include" /I"C:\Glew-and-Glut\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\my programming\ise_cg_s16_project\ise_cg_s16_project\main.cpp(1): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+     1>Done Building Project "E:\My Programming\ISE_CG_S16_Project\ISE_CG_S16_Project\ISE_CG_S16_Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.29
